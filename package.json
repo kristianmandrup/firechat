@@ -6,9 +6,9 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
-    "firebase": "^2.4.1",
-    "react-native": "^0.21.0",
+    "firebase": "^3.7.4",
+    "react-native": "^0.42.3",
     "react-native-layout": "0.0.3",
-    "reactfire": "^0.6.0"
+    "reactfire": "^1.0.0"
   }
 }
